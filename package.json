@@ -1,0 +1,16 @@
+{
+  "name": "vitest-lab-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^0.13.1"
+  }
+}
